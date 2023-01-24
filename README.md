@@ -1,4 +1,6 @@
-# Opencart 4 Fashion Theme
+[![](https://nrrxkp.wmcoder.com/image/catalog/github-image-2.png)](https://opencart.erolislen.com.tr)
+
+# BELERO - Fashion Responsive Opencart 4 Theme
 
 ### Newly Added features
 
@@ -23,5 +25,12 @@
 
 ### How it looks like
 
-**Link 1** : https://opencart.erolislen.com.tr/
-**Link 2** : https://nrrxkp.wmcoder.com/
+- **Link 1** : https://nrrxkp.wmcoder.com/ 
+
+### Installation
+
+- Download the files in .zip format.
+- Extract the files from the zip.
+- Follow the Opencart installation steps.
+
+Opencart installation link : http://docs.opencart.com/en-gb/installation/
